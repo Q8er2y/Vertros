@@ -1,7 +1,9 @@
 {
+  "name": "Mining drone builder",
+  "description": "Assembles mining drones",
   "type": "UnitFactory",
   "researchCostMultiplier": 0.3,
-  "size": 2,
+  "size": 3,
   "consumes": {
     "power": 5
   },

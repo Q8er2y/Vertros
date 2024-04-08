@@ -9,10 +9,12 @@
   "unitCapModifier": 30,
   "researchCostMultiplier": 0.17,
   "buildCostMultiplier": 0.7,
+  "alwaysUnlocked": true,
+  "coreMerge": true
   "unitType": "helios",
   // "requirements": [
   //  "silicon/4000",
-  //  "volcanite/1000",
+  //  "vulcanite/1000",
   //  "oxide/3000",
   //  "tungsten/2000",
 //    ""

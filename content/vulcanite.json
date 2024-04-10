@@ -1,8 +1,0 @@
-{
-	"type": "material",
-	"name": "Vulcanite",
-	"description": "A hot material",
-	"cost": 1.0,
-	"color": "8a2020",
-	"hardness": 1
-}

@@ -1,7 +1,7 @@
 {
 	"name": "Vulcanite",
 	"type": "OreBlock",
-	"itemDrop": "Vulcanite",
+	"itemDrop": "vulcanite",
 	"variants": 3,
 	"oreDefault": true,
 	"oreScale": 23.87,

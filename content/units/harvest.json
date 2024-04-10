@@ -1,4 +1,6 @@
 {
+  "name": "harvest",
+  "description": "A T1 unit that harvests all resouces from copper up to thorium",
   "type": "flying",
   "lowAltitude": false,
   "defaultController": "minerAI",

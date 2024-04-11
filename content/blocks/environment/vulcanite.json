@@ -1,5 +1,5 @@
 {
-	"name": "Vulcanite",
+	"name": "vulcanite",
 	"type": "OreBlock",
 	"itemDrop": "vulcanite",
 	"variants": 3,

@@ -11,7 +11,7 @@
   "buildCostMultiplier": 0.7,
   "alwaysUnlocked": true,
   "coreMerge": true
-  "unitType": "helios",
+  "unitType": "gamma",
   // "requirements": [
   //  "silicon/4000",
   //  "vulcanite/1000",

@@ -1,1 +1,25 @@
-
+{
+  "name": "Migration",
+  "description": "A T2 transport unit, red stripes mean that the drone is from the 'transport' class.",
+  "type": "flying",
+  "lowAltitude": false,
+  "defaultController": "CargoAI",
+  "speed": 3.0,
+  "accel": 0.5,
+  "drag": 0.5,
+  "logicControllable" = false,
+  
+  "trailLength": 4,
+  "playerControllable": false,
+  "hidden" = true,
+  "isEnemy": false,
+  "outlineColor": "36363c",
+  "engineColor": "A9D8FFFF",
+  "trailColor": "A9D8FFFF",
+  "flying": true,
+  "health": 500,
+  "hitSize": 8,
+  "armor": 3,
+  "itemCapacity": 30,
+  "engineOffset": 7
+}

@@ -8,7 +8,7 @@
   "accel": 0.5,
   "drag": 0.5,
   "logicControllable" = false,
-  
+  "assembler" = "DDCL",
   "trailLength": 4,
   "playerControllable": false,
   "hidden" = true,

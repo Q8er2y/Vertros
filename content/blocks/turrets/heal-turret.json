@@ -11,8 +11,8 @@
   "recoil": 1,
   "rotateSpeed": 5,
   "shootSound": "bang",
-  "targetAir": true,
-  "TargetGround": true,
+  "targetAir": false,
+  "TargetGround": false,
   "targetHealing": true,
   "drawer": {
     "type": "drawTurret",

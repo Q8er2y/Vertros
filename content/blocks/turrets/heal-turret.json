@@ -32,9 +32,6 @@
       "trailLength": 8,
       "trailWidth": 2,
       },
-      "status": "fast",
-      "height": 9,
-      "width": 9,
   
       "despawnHit": true,
       "frontColor": "A9D8FFFF",

@@ -1,1 +1,46 @@
-
+{
+  "type": "ItemTurret",
+  "researchCostMultiplier": 0.1,
+  "squareSprite": false,
+  "outlineColor": "36363CFF",
+  "size": 3,
+  "health": 2500,
+  "reload": 50,
+  "range": 60,
+  "maxAmmo": 10,
+  "recoil": 1,
+  "rotateSpeed": 5,
+  "shootSound": "bang",
+  "targetAir": true,
+  "TargetGround": true,
+  "targetHealing": true,
+  "drawer": {
+    "type": "drawTurret",
+  },
+  "ammoTypes": {
+    "energy-cluster": {
+      "type": "healBulletBig",
+      "sprite": "heal-bullet",
+      "absorbable": true,
+      "shrinkY": 0,
+      "shrinkX": 0,
+      "speed": 4,
+      "lifetime": 15,
+      "damage": 15,
+      "trailColor": "2dad54",
+      "trailParam": 2,
+      "trailLength": 8,
+      "trailWidth": 2,
+      },
+      "status": "fast",
+      "height": 9,
+      "width": 9,
+  
+      "despawnHit": true,
+      "frontColor": "A9D8FFFF",
+      "backColor": "66B1FFFF"
+    },
+  "envRequired": 0,
+  "enDisabled": 4,
+  "category": "turret",
+}

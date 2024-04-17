@@ -5,8 +5,8 @@
   "outlineColor": "36363CFF",
   "size": 3,
   "health": 2500,
-  "reload": 50,
-  "range": 60,
+  "reload": 25,
+  "range": 200,
   "maxAmmo": 10,
   "recoil": 1,
   "rotateSpeed": 5,
@@ -14,8 +14,6 @@
   "targetAir": false,
   "TargetGround": false,
   "targetHealing": true,
-  "drawer": {
-    "type": "drawTurret",
   },
   "ammoTypes": {
     "energy-cluster": {
@@ -25,8 +23,8 @@
       "shrinkY": 0,
       "shrinkX": 0,
       "speed": 4,
-      "lifetime": 15,
-      "damage": 15,
+      "lifetime": -1,
+      "damage": -10,
       "trailColor": "2dad54",
       "trailParam": 2,
       "trailLength": 8,

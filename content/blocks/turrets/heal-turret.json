@@ -32,12 +32,6 @@
       "trailLength": 8,
       "trailWidth": 2,
       },
-  
-      "despawnHit": true,
-      "frontColor": "A9D8FFFF",
-      "backColor": "66B1FFFF"
     },
-  "envRequired": 0,
-  "enDisabled": 4,
   "category": "turret",
 }

@@ -2,6 +2,8 @@
 	"type": "material",
 	"name": "Vulcanite",
 	"description": "A hot material",
+	"explosiveness": 70,
+	"flammability": 20,
 	"cost": 1.0,
 	"color": "8a2020",
 	"hardness": 1

@@ -13,10 +13,9 @@
   "shootSound": "artillery",
   "targetAir": true,
   "TargetGround": true,
-  "bulletType": "RailBulletType",
   "ammoTypes": {
     "energy-cluster": {
-      "type": "ItemAmmoType",
+      "type": "RailBulletType",
       "sprite": "rail-bullet",
       "absorbable": true,
       "shrinkY": 0,

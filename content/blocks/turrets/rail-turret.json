@@ -15,7 +15,7 @@
   "TargetGround": true,
   "ammoTypes": {
     "energy-cluster": {
-      "type": "RailBulletType",
+      "type": "",
       "sprite": "rail-bullet",
       "absorbable": true,
       "shrinkY": 0,

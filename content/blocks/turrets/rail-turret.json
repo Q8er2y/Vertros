@@ -1,6 +1,5 @@
 {
   "type": "ItemTurret",
-  "researchCostMultiplier": 0.1,
   "squareSprite": false,
   "outlineColor": "36363CFF",
   "size": 3,
@@ -17,7 +16,7 @@
     "energy-cluster": {
       "type": "",
       "sprite": "rail-bullet",
-      "absorbable": true,
+      "absorbable": false,
       "shrinkY": 0,
       "shrinkX": 0,
       "speed": 4,

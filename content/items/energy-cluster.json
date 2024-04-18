@@ -1,8 +1,8 @@
 {
 	"type": "material",
-	"name": "Vulcanite",
-	"description": "A hot material",
+	"name": "Energy cluster",
+	"description": "An energy cluster that is used for ammo and production",
 	"cost": 1.0,
-	"color": "8a2020",
+	"color": "11ad5f",
 	"hardness": 1
 }

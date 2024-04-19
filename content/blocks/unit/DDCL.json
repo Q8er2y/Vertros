@@ -1,17 +1,17 @@
 {
-name: DDCL,
-type: UnitCargoLoader,
-size: 2,
-health: 500,
-itemCapacity: 50,
-consumes: {
-  power: 2
+"name": "DDCL",
+"type": "UnitCargoLoader",
+"size": 2,
+"health": 500,
+"itemCapacity": 50,
+"consumes": {
+ "power": 2,
 
 },
-buildTime: 180,
-polySides: 2,
-polyRotateSpeed: 3,
-polyStroke: 3,
-unitType: migration,
-category: distribution,
+"buildTime": 180,
+"polySides": 2,
+"polyRotateSpeed": 3,
+"polyStroke": 3,
+"unitType": "migration",
+"category": "distribution",
 }

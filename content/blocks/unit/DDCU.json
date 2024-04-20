@@ -1,6 +1,9 @@
-type: UnitCargoUnloadPoint
-size: 2
-health: 300
-itemCapacity: 50
-staleTimeDuration: 15
-category: distribution
+{
+"type": "UnitCargoUnloadPoint",
+"name": "DDCU",
+"size": 2,
+"health": 300,
+"itemCapacity": 50,
+"staleTimeDuration": 15,
+"category": "distribution",
+}

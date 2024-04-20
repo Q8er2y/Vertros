@@ -1,9 +1,9 @@
 {
 "name": "DDCL",
 "type": "UnitCargoLoader",
-"size": 4,
+"size": 3,
 "health": 500,
-"itemCapacity": 50,
+"itemCapacity": 200,
 "consumes": {
  "power": 2,
 

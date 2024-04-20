@@ -12,12 +12,6 @@
   "alwaysUnlocked": true,
   "coreMerge": true
   "unitType": "gamma",
-  // "requirements": [
-  //  "silicon/4000",
-  //  "vulcanite/1000",
-  //  "oxide/3000",
-  //  "tungsten/2000",
-//    ""
-//  ],
   "category": "effect",
+"visible": true,
 }

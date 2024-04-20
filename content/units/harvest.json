@@ -1,6 +1,6 @@
 {
   "name": "harvest",
-  "description": "A T1 unit that harvests all resouces from copper up to thorium",
+  "description": "A T2 unit that harvests all resouces from copper up to thorium",
   "type": "flying",
   "lowAltitude": false,
   "defaultController": "minerAI",
@@ -23,8 +23,8 @@
   "mining": true,
   "isEnemy": false,
   "outlineColor": "36363c",
-  "engineColor": "A9D8FFFF",
-  "trailColor": "A9D8FFFF",
+  "engineColor": "f4ed8a",
+  "trailColor": "f4ed8a",
   "flying": true,
   "health": 500,
   "hitSize": 8,

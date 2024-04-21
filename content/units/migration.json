@@ -1,7 +1,7 @@
 {
   "name": "Migration",
   "description": "A T2 transport unit, red stripes mean that the drone is from the 'transport' class.",
-  "type": "flying",
+  "type": "tether",
   "lowAltitude": false,
   "defaultController": "CargoAI",
   "speed": 3.0,

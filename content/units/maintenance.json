@@ -15,6 +15,14 @@
         "colorFrom": "84f491", 
         "colorTo": "62ae7f"
       },
+        {
+      "type": "ForceFieldAbility",  
+      "regen": 5, 
+      "radius": 60, 
+      "cooldown": 360,
+      "max": 200,
+      "sides": 8,
+      },
    ],
   "lowAltitude": false,
   "canAttack": false,

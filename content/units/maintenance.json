@@ -15,7 +15,7 @@
         "colorFrom": "84f491", 
         "colorTo": "62ae7f"
       },
-        {
+      
       "type": "ForceFieldAbility",  
       "regen": 5, 
       "radius": 60, 

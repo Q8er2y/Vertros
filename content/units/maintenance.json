@@ -4,17 +4,6 @@
   "description": "Capable of automatic building and repairing.",
   "abilities": [
     {
-      "type": "RepairFieldAbility", 
-      "range": 120, 
-      "amount": 15, 
-      "reload": 60, 
-      "activeEffect": {
-        "type": "WaveEffect", 
-        "sizeFrom": 0, 
-        "sizeTo": 47, 
-        "colorFrom": "84f491", 
-        "colorTo": "62ae7f"
-      },
       
       "type": "ForceFieldAbility",  
       "regen": 5, 

@@ -1,5 +1,5 @@
 {
-  "name": "harvest",
+  "name": "[yellow]Harvest",
   "description": "A T2 unit that harvests all resouces from copper up to thorium",
   "type": "flying",
   "lowAltitude": false,

@@ -16,7 +16,8 @@
         "lead/40",
       ],
       "time": 600
-          
+    }
+    {
       "unit": "maintenance",
       "requirements": [
         "silicon/120",

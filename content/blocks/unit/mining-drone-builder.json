@@ -1,6 +1,6 @@
 {
-  "name": "Mining drone builder",
-  "description": "Assembles mining drones",
+  "name": "Drone builder",
+  "description": "Assembles different types of drones",
   "type": "UnitFactory",
   "researchCostMultiplier": 0.3,
   "size": 3,

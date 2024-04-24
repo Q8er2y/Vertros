@@ -1,0 +1,10 @@
+{
+	"type": "material",
+	"name": "Crushed vulcanite",
+	"description": "Vulcanite that have been crushed /n [scarlet] More explosive than the non crushed version",
+	"explosiveness": 10,
+	"flammability": 4,
+	"cost": 1.0,
+	"color": "8a2020",
+	"hardness": 1
+}

@@ -8,8 +8,7 @@
 
   "recipes": [
   {
-    "input": 
-    "items": vulcanite/1,
+    "input": "vulcanite/1",
     "output": {
       "items": [
         "crushed-vulcanite/1",

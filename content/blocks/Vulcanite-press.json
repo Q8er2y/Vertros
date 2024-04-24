@@ -1,24 +1,23 @@
 "name": "Vulcanite press",
 "type": multicraft.MultiCrafter,
-recipes: 
-[
+"recipes": [
 {
-  input: Vulcanite/1
-  output: {
-    items: [
-      Crushed-vulcaite/0.8
-    ]
-  }
-  craftTime: 250.0
-}
+  "input": "Vulcanite/1"
+  "output": {
+    "items": [
+      "Crushed-vulcanite/0.8"
+    ],
+  },
+  "craftTime": 250.0
+},
 {
-  input: Vulcanite/1
-  output: {
-    items: [
-      Crushed-vulcaite/0.8
+  "input": "Vulcanite/1"
+  "output": {
+    "items": [
+      "Crushed-vulcaite/0.8"
     ]
 "power": 3  
-}
-  craftTime: 250.0
+},
+  "craftTime": 250.0
 }
 ]

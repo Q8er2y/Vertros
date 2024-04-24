@@ -1,5 +1,5 @@
 "name": "Vulcanite press",
-"type": multicraft.MultiCrafter,
+"type": "multicraft.MultiCrafter",
 "recipes": [
 {
   "input": "Vulcanite/1"

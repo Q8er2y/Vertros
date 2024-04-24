@@ -1,37 +1,16 @@
 {
 "name": "Vulcanite press",
 "type": "multicraft.MultiCrafter",
-//"recipes": [
-//{
-//  "input": "vulcanite/1"
- // "output": {
- //   "items": [
-//      "Crushed-vulcanite/0.8"
-//    ],
-//  },
-//  "craftTime": 250.0
-//},
-//{
-//  "input": "vulcanite/1"
-//  "output": {
-  //  "items": [
- //     "Crushed-vulcaite/0.8"
- //   ]
-//"power": 3  
-//},
- // "craftTime": 250.0
-//}
-  "recipes": [
+"recipes": [
   {
-    "input": "ozone/1.5",
+    "input": "vulcanite/1.5",
     "output": {
       "items": [
-        "copper/1",
-        "graphite/2"
+        "crushed-vulcanite/0.8",
       ],
       "power": 2.5
     },
     "craftTime": 250.0
-},
-  ]
-  }
+  }, 
+]
+}

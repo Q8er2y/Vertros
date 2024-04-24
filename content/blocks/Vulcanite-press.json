@@ -2,7 +2,7 @@
 "type": "multicraft.MultiCrafter",
 "recipes": [
 {
-  "input": "Vulcanite/1"
+  "input": "vulcanite/1"
   "output": {
     "items": [
       "Crushed-vulcanite/0.8"
@@ -11,7 +11,7 @@
   "craftTime": 250.0
 },
 {
-  "input": "Vulcanite/1"
+  "input": "vulcanite/1"
   "output": {
     "items": [
       "Crushed-vulcaite/0.8"

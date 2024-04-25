@@ -13,24 +13,21 @@
     "input": {
     "power": 2.5,
     "items": [
-        "vertrosmod-vulcanite/1",
+        "vertrosmod-vulcanite/2",
       ],
     }
     "output": {
       "items": [
-        "vertrosmod-crushed-vulcanite/0.5",
+        "vertrosmod-crushed-vulcanite/1.8",
       ],
     },
     "craftTime": 250.0
   } 
   {
-    "input": { 
-    "vertrosmod-vulcanite/2",
-    "power": 2.5
-    },
+    "input": "vertrosmod-vulcanite/1",
     "output": {
       "items": [
-        "vertrosmod-crushed-vulcanite/1.8",
+        "vertrosmod-crushed-vulcanite/0.8",
       ],
     },
     "craftTime": 250.0

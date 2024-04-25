@@ -1,0 +1,33 @@
+type: flying
+name: ...
+speed: 2
+accel: 0.25
+drag: 0
+health: 12000
+rotateSpeed: 1
+hitSize: 50
+isCounted: true
+armor: 1000
+payloadCapacity: 10
+buildSpeed: 10
+rotateShooting: true
+commandLimit: 30
+engineOffset: 6
+flying: true
+
+abilities: [
+     {
+        type: RepairFieldAbility
+        amount: 250
+        range: 500
+        reload: 25
+     },
+     {
+        type: EnergyFieldAbility
+        damage: 150
+        range: 300
+        reload: 40
+        useAmmo: false
+        maxTargets: 20
+     } 
+]

@@ -12,12 +12,12 @@
   {
     "input": {
     "items": [
-        "vertrosmod-vulcanite/2",
+        "vertrosmod-vulcanite/3",
       ],
     }
     "output": {
       "items": [
-        "vertrosmod-crushed-vulcanite/1.8",
+        "vertrosmod-crushed-vulcanite/2",
       ],
     },
     "craftTime": 250.0

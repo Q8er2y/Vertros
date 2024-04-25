@@ -5,14 +5,24 @@
 "health": 360,
 "alwaysUnlocked": true,
 "hasItems": true,
-"category": "production",
-
-  "recipes": [
+"hasPower": true,
+"itemCapacity": 60,
+"category": "crafting",
+"recipes": [
   {
     "input": "vertrosmod-vulcanite/1",
     "output": {
       "items": [
         "vertrosmod-crushed-vulcanite/0.5",
+      ],
+    },
+    "craftTime": 250.0
+  } 
+  {
+    "input": "vertrosmod-vulcanite/2",
+    "output": {
+      "items": [
+        "vertrosmod-crushed-vulcanite/1.8",
       ],
       "power": 2.5
     },

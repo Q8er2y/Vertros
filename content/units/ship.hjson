@@ -1,6 +1,6 @@
 type: flying
 name: ...
-speed: 2
+speed: 1
 accel: 0.25
 drag: 0
 health: 12000
@@ -10,7 +10,7 @@ isCounted: true
 armor: 1000
 payloadCapacity: 10
 buildSpeed: 10
-rotateShooting: true
+rotateShooting: false
 commandLimit: 30
 engineOffset: 6
 flying: true
@@ -26,7 +26,7 @@ abilities: [
         type: EnergyFieldAbility
         damage: 150
         range: 300
-        reload: 40
+        reload: 60
         useAmmo: false
         maxTargets: 20
      } 

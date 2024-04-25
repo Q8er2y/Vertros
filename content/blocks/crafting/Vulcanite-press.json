@@ -1,7 +1,7 @@
 {
 "name": "Vulcanite press",
 "type": "multicraft.MultiCrafter",
-"size": 4,
+"size": 2,
 "health": 360,
 "hasItems": true,
 "hasPower": true,

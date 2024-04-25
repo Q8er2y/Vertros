@@ -11,7 +11,6 @@
 "recipes": [
   {
     "input": {
-    "power": 2.5,
     "items": [
         "vertrosmod-vulcanite/2",
       ],

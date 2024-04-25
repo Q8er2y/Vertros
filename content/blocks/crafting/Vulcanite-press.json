@@ -3,7 +3,6 @@
 "type": "multicraft.MultiCrafter",
 "size": 4,
 "health": 360,
-"alwaysUnlocked": true,
 "hasItems": true,
 "hasPower": true,
 "itemCapacity": 60,

@@ -19,16 +19,7 @@
         "vertrosmod-crushed-vulcanite/2",
       ],
     },
-    "craftTime": 250.0
-  } 
-  {
-    "input": "vertrosmod-vulcanite/1",
-    "output": {
-      "items": [
-        "vertrosmod-crushed-vulcanite/0.8",
-      ],
-    },
-    "craftTime": 250.0
-  } 
+    "craftTime": 75
+  }  
 ]
 }
